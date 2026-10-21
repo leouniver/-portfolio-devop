@@ -1,0 +1,21 @@
+body{ 
+    background-color: black;
+    color: white;
+        text-align: center;
+          font-family: Arial, sans-serif;
+}
+ul{
+    list-style: none;
+}
+
+h1{ 
+    color: cyan;
+    font-size: 60px;
+}
+
+h2{
+    color: orange; 
+
+
+    
+}
