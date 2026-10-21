@@ -1,21 +1,29 @@
-body{ 
+body{
     background-color: black;
     color: white;
-        text-align: center;
-          font-family: Arial, sans-serif;
+    text-align: center;
 }
+
 ul{
     list-style: none;
 }
 
-h1{ 
+h1{
     color: cyan;
     font-size: 60px;
 }
 
 h2{
-    color: orange; 
+    color: orange;
+}
 
+.caixa{
+    width: 800px;
+    margin: auto;
+     border: 2px solid white;
 
-    
+    padding: 30px;
+
+    border-radius: 20px;
+  
 }
