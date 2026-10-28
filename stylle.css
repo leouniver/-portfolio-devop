@@ -25,5 +25,24 @@ h2{
     padding: 30px;
 
     border-radius: 20px;
+
+         background-color: #413737;
+box-shadow: 0px 0px 40px orange;
   
+}
+
+ a{
+    background-color: cyan;
+    color: black;
+
+    padding: 10px 20px;
+
+    text-decoration: none;
+
+    border-radius: 10px;
+    
+}
+
+a:hover{
+    background-color: orange;
 }
